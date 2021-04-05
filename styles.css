@@ -1,0 +1,21 @@
+*{
+    font-family: 'Prompt', sans-serif;
+
+}
+
+.topic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #EF476F;
+}
+
+b{
+    background-color: #FFD166;
+}
+
+.bottom-container{
+    position: absolute;
+    bottom: 0px;
+    margin-bottom: 100px;
+}
